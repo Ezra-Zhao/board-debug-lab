@@ -1,0 +1,8 @@
+[package]
+name = "board-log-parser"
+version = "0.1.0"
+edition = "2021"
+description = "Parse synthetic manufacturing / board test logs and serial logs into a structured failure summary. Clean-room, zero-dependency, synthetic data only."
+license = "MIT"
+
+[dependencies]
